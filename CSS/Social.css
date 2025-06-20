@@ -34,6 +34,7 @@
     flex-direction: column;
     padding: 30px;
     border-radius: 10px;
+    gradient:linear-gradient(to bottom, var(--Grey-800), var(--Grey-900));
 }
 .hero-page img{
     width: 150px;
